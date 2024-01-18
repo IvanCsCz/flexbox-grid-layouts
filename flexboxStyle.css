@@ -1,0 +1,37 @@
+body {
+  background-color: #f2f2f2;
+}
+.el--1 {
+  background-color: #ffadad;
+}
+.el--2 {
+  background-color: #ffd6a5;
+}
+.el--3 {
+  background-color: #fdffb6;
+  height: 150px;
+}
+.el--4 {
+  background-color: #caffbf;
+}
+.el--5 {
+  background-color: #9bf6ff;
+}
+.el--6 {
+  background-color: #a0c4ff;
+}
+.el--7 {
+  background-color: #bdb2ff;
+}
+.el--8 {
+  background-color: #ffc6ff;
+}
+
+.container {
+  font-family: sans-serif;
+  background-color: #ddd;
+  font-size: 40px;
+  margin: 40px;
+
+  /* FLEXBOX */
+}

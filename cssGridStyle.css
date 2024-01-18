@@ -1,0 +1,49 @@
+body {
+  background-color: #f2f2f2;
+}
+.el--1 {
+  background-color: #ffadad;
+}
+.el--2 {
+  background-color: #ffd6a5;
+}
+.el--3 {
+  background-color: #fdffb6;
+  height: 150px;
+}
+.el--4 {
+  background-color: #caffbf;
+}
+.el--5 {
+  background-color: #9bf6ff;
+}
+.el--6 {
+  background-color: #a0c4ff;
+}
+.el--7 {
+  background-color: #bdb2ff;
+}
+.el--8 {
+  background-color: #ffc6ff;
+}
+
+.container--1 {
+  font-family: sans-serif;
+  background-color: #ddd;
+  font-size: 40px;
+  margin: 40px;
+
+  /* CSS GRID */
+}
+
+.container--2 {
+  font-family: sans-serif;
+  background-color: #d5bdaf;
+  font-size: 40px;
+  margin: 100px;
+
+  width: 1000px;
+  height: 600px;
+
+  /* CSS GRID */
+}
